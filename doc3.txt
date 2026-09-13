@@ -1,0 +1,1 @@
+Dense embeddings represent semantic meaning in vector space. Dense retrieval can find relevant documents even when the exact query words do not appear in the document.

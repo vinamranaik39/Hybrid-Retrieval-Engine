@@ -1,0 +1,1 @@
+Hybrid RAG combines lexical retrieval such as BM25 with semantic dense retrieval. This improves robustness when a query contains both exact terms and broader concepts.

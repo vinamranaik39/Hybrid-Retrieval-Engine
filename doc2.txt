@@ -1,0 +1,1 @@
+BM25 is a lexical retrieval algorithm based on term frequency and inverse document frequency. It is particularly useful for exact keyword, identifier, acronym, and code matching.

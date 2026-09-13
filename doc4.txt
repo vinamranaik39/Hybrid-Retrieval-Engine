@@ -1,0 +1,1 @@
+Reciprocal Rank Fusion combines ranked results from multiple retrieval systems by rewarding documents that appear near the top of several rankings.

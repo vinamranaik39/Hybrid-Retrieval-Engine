@@ -1,0 +1,1 @@
+A Cross-Encoder scores a query and document together. In a hybrid retrieval pipeline it can rerank a smaller candidate set with better relevance modeling than first-stage retrieval alone.
